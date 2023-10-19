@@ -1,0 +1,11 @@
+{
+    "num_epochs": 100,
+    "lr": 3e-5,
+    "batch_size": 16,
+    "hidden_dim": 768,
+    "threshold": 0.5,
+    "save_every": 5,
+    "update_grad_every": 4,
+    "max_length": 512,
+    "truncation_side": "right"
+}
