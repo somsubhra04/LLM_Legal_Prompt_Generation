@@ -33,10 +33,11 @@ LLM_Legal_Prompt_Generation
 │   │   ├── utils.py
 │   │   ├── Model
 │   │   │   ├── net.py
-│   │   ├── Experiments/params
-│   │   │   ├── params_inlegalbert.json
-│   │   │   ├── params_legalbert.json
-│   │   │   ├── params_xlnet.json
+│   │   ├── Experiments
+│   │   │   ├── params
+│   │   │   │   ├── params_inlegalbert.json
+│   │   │   │   ├── params_legalbert.json
+│   │   │   │   ├── params_xlnet.json
 │   ├── LLM
 │   │   ├── Codes
 │   │   │   ├── ALL TASK CODE.ipynb
