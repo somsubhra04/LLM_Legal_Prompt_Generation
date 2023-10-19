@@ -56,10 +56,10 @@ LLM_Legal_Prompt_Generation
 ├── README.md
 ```
 ## Abstract
-The Large Language Models (LLMs) have impacted many real-life tasks. To examine the efficacy of LLMs in a high-stake domain like law,
+The **Large Language Models (LLMs)** have impacted many real-life tasks. To examine the efficacy of LLMs in a high-stake domain like law,
 we have applied state-of-the-art LLMs for two
-popular tasks: Statute Prediction and Judgment
-Prediction, on Indian Supreme Court cases. We
+popular tasks: **Statute Prediction** and **Judgment
+Prediction**, on Indian Supreme Court cases. We
 see that while LLMs exhibit excellent predictive performance in Statute Prediction, their
 performance dips in Judgment Prediction when
 compared with many standard models. The
@@ -69,8 +69,8 @@ We also see evidence of gender and religious
 bias in the LLM-predicted results. In addition,
 we present a note from a senior legal expert
 on the ethical concerns of deploying LLMs in
-these critical legal tasks
+these critical legal tasks.
 ## Authors
 Shaurya Vats, Atharva Zope, Somsubhra De, Anurag Sharma, Upal Bhattacharya, Shubham Kumar Nigam, Shouvik Kumar Guha, Koustav Rudra, Kripabandhu Ghosh
 ## Contact Us
-Feel free to write your queries or questions to `kripaghosh[at]iiserkol[dot]ac[dot]in`
+Feel free to write your queries or questions to `kripaghosh[at]iiserkol[dot]ac[dot]in`.
