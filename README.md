@@ -72,5 +72,7 @@ on the ethical concerns of deploying LLMs in
 these critical legal tasks.
 ## Authors
 Shaurya Vats, Atharva Zope, Somsubhra De, Anurag Sharma, Upal Bhattacharya, Shubham Kumar Nigam, Shouvik Kumar Guha, Koustav Rudra, Kripabandhu Ghosh
+## Citation
+To be updated shortly
 ## Contact Us
 Feel free to write your queries or questions to `kripaghosh[at]iiserkol[dot]ac[dot]in`.
