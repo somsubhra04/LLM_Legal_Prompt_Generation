@@ -26,27 +26,30 @@ LLM_Legal_Prompt_Generation
 │   │   ├── muslim_surname_file.txt
 ├── Statute Prediction
 │   ├── Baseline Models
-│   │   ├── file1.txt
-│   │   ├── file2.txt
-│   │   ├── Subfolder1
-│   │   │   ├── subfile1.txt
-│   │   ├── Subfolder2
-│   │   │   ├── subfile1.txt
-│   │   │   ├── subfile2.txt
-│   │   │   ├── subfile3.txt
+│   │   ├── data_generator.py
+│   │   ├── evaluate.py
+│   │   ├── metrics.py
+│   │   ├── train.py
+│   │   ├── utils.py
+│   │   ├── Model
+│   │   │   ├── net.py
+│   │   ├── Experiments/params
+│   │   │   ├── params_inlegalbert.json
+│   │   │   ├── params_legalbert.json
+│   │   │   ├── params_xlnet.json
 │   ├── LLM
 │   │   ├── Codes
-│   │   │   ├── code1.py
-│   │   │   ├── code2.py
+│   │   │   ├── ALL TASK CODE.ipynb
+│   │   │   ├── ALL TASK CODE.py
 │   │   ├── Datasets
-│   │   │   ├── dataset1.txt
-│   │   │   ├── dataset2.txt
-│   │   │   ├── dataset3.txt
-│   │   │   ├── dataset4.txt
-│   │   │   ├── dataset5.txt
-│   │   │   ├── dataset6.txt
-│   │   │   ├── dataset7.txt
-│   │   │   ├── dataset8.txt
+│   │   │   ├── 13_Cases_Gender and Bias Prediction_with explanations.csv
+│   │   │   ├── 245cases.csv
+│   │   │   ├── Gender and Religion Bias cases.csv
+│   │   │   ├── query.csv
+│   │   │   ├── statute_pred_100_cases_without_exp-gender_religion_bias.csv
+│   │   │   ├── statute_pred_100_cases_without_exp.csv
+│   │   │   ├── statute_pred_45_cases_with_exp.csv
+│   │   │   ├── statute_pred_45_cases_without_exp.csv
 │   │   ├── readme.md
-├── readme.md
+├── README.md
 ```
