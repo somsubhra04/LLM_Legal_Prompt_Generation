@@ -56,3 +56,4 @@ LLM_Legal_Prompt_Generation
 ├── README.md
 ```
 ## Authors
+Shaurya Vats, Atharva Zope, Somsubhra De, Anurag Sharma, Upal Bhattacharya, Shubham Kumar Nigam, Shouvik Kumar Guha, Koustav Rudra, Kripabandhu Ghosh
