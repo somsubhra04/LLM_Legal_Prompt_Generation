@@ -33,7 +33,10 @@ LLM_Legal_Prompt_Generation
 │   │   ├── train.py
 │   │   ├── utils.py
 │   │   ├── Model
-│   │   │   ├── net.py
+│   │   │   ├── Multi-label Classification
+│   │   │   │   ├── net.py
+│   │   │   ├── Binary Classification
+│   │   │   │   ├── net.py
 │   │   ├── Experiments
 │   │   │   ├── params
 │   │   │   │   ├── params_inlegalbert.json
